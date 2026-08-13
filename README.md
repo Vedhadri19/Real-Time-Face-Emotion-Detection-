@@ -1,10 +1,10 @@
 # Real-Time-Face-Emotion-Detection-
 A real-time facial emotion recognition system built with Python, OpenCV, and DeepFace. 
 
-##Technologies Used
+## Technologies Used
 * Python, OpenCV, DeepFace, TensorFlow, Jupyter Notebook
 
-##Emotions Detected
+## Emotions Detected
 * Happy, Sad, Angry, Fear, Surprise, Neutral, Disgust
 
 # Working Process: 
