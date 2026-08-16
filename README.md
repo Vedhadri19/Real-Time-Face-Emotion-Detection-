@@ -13,3 +13,8 @@ A real-time facial emotion recognition system built with Python, OpenCV, and Dee
 * Analyze facial expressions using DeepFace.
 * Predict the dominant emotion.
 * Display the detected emotion and face outline in real time.
+
+# Output:
+![Screenshot 1](/Demo_video#1.mp4)
+![Screenshot 1](/Demo_video#2.jpeg)
+![Screenshot 1](/Demo_video#3.jpeg)
