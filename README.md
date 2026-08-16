@@ -15,8 +15,15 @@ A real-time facial emotion recognition system built with Python, OpenCV, and Dee
 * Display the detected emotion and face outline in real time.
 
 # Output:
-[▶️ Watch the demo video](Demo_video%231,mp4)
+<h2>🎥 Demo Video</h2>
 
-![Screenshot 1](Demo_video%232.jpeg)
+<p>
+  <a href="Demo_video%231.mp4">▶️ Watch the Demo Video</a>
+</p>
 
-![Screenshot 2](Demo_video%233.jpeg)
+<h2>📸 Screenshots</h2>
+
+<p>
+  <img src="Demo_video%232.jpeg" width="350">
+  <img src="Demo_video%233.jpeg" width="350">
+</p>
